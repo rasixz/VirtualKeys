@@ -3,7 +3,7 @@
 #include <WinUser.h>
 
 namespace Input {
-	namespace MouseButtons {
+	namespace Mouse {
 		constexpr int K_LBUTTON         = 0x01 /*Left MouseButton*/;
 		constexpr int K_RBUTTON         = 0x02 /*Right MouseButton*/;
 		constexpr int K_MBUTTON         = 0x04 /*Middle MouseButton*/;
