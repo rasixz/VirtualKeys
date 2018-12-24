@@ -2,7 +2,7 @@
 
 This is a simple Project wich contains almost all Default keys in hexadecimal format.
 
-The keys are all copied from [the offical virtual key code list from the Microsoft docs](https://docs.microsoft.com/en-us/windows/desktop/inputdev/virtual-key-codes).
+The keys are all copied from the offical [virtual key code list from the Microsoft docs](https://docs.microsoft.com/en-us/windows/desktop/inputdev/virtual-key-codes).
 
 ## Usage
 
